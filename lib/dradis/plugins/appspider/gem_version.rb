@@ -8,7 +8,7 @@ module Dradis
 
       module VERSION
         MAJOR = 3
-        MINOR = 15
+        MINOR = 18
         TINY = 0
         PRE = 'rc1'
 
