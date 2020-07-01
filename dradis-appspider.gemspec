@@ -1,6 +1,6 @@
 $:.push File.expand_path('../lib', __FILE__)
 require 'dradis/plugins/appspider/version'
-version = Dradis::Plugins::Appspider::VERSION::STRING
+version = Dradis::Plugins::AppSpider::VERSION::STRING
 
 
 # Describe your gem and declare its dependencies:
@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'dradis-plugins', '~> 3.6'
 
   spec.add_development_dependency 'bundler'
-  spec.add_development_dependency 'rake', '~> 10.0'
+  spec.add_development_dependency 'rake', '~> 12.3.3'
 end
