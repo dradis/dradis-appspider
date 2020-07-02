@@ -1,3 +1,7 @@
+## Dradis Framework 3.18 (XXX, 2019) ##
+
+*  Migration from NTOSpider to AppSpider naming convention.
+
 ## Dradis Framework 3.17 (May, 2020) ##
 
 *   No changes.
