@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
   spec.license = 'GPL-2'
 
   spec.authors = ['Daniel Martin', 'Michael Gargiullo']
-  spec.email = ['etd@nomejortu.com.com', 'michael.gargiullo@pivotpointsecurity.com']
+  spec.email = ['etd@nomejortu.com', 'michael.gargiullo@pivotpointsecurity.com']
   spec.homepage = 'http://dradisframework.org'
 
   spec.files = `git ls-files`.split($\)
